@@ -25,7 +25,7 @@ Hi, I'm Rajat, a student from India, currently studying Electronics and Communic
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/rajatdodwadkar/">
-  <img align="left" alt="Rajat's LinkdeIN" width="22px" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />
+  <img align="left" alt="Rajat's LinkdeIN" width="22px" src="https://img.favpng.com/25/4/21/linkedin-facebook-social-media-font-awesome-icon-png-favpng-QRqmwk6cNZRQZwxSAJpYRt4Rf_t.jpg" />
 </a>
 
 <a href="https://twitter.com/Rajatdodwadkar">
@@ -43,7 +43,7 @@ Hi, I'm Rajat, a student from India, currently studying Electronics and Communic
 <a >
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" />
 <img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Jupyter notebooks" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" />
