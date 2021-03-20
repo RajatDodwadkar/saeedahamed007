@@ -47,6 +47,6 @@ Hi, I'm Rajat, a student from India, currently studying Electronics and Communic
 <img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Jupyter notebooks" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" />
-<img align="left" alt="Anaconda navigator" width="26px" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fraden.fke.utm.my%2Fblog%2Fanacondanavigatorlaunchericon&psig=AOvVaw3K8cHb1aP-syGyLGKq4kPG&ust=1616334588523000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDO39qBv-8CFQAAAAAdAAAAABAD" />
+<img align="left" alt="Anaconda navigator" width="26px" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" />
 </a>
 <br />
