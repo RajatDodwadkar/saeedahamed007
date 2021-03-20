@@ -25,15 +25,15 @@ Hi, I'm Rajat, a student from India, currently studying Electronics and Communic
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/rajatdodwadkar/">
-  <img align="left" alt="Rajat's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rajat's LinkdeIN" width="22px" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />
 </a>
 
 <a href="https://twitter.com/Rajatdodwadkar">
-  <img align="left" alt="Rajat Dodwadkar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Rajat Dodwadkar | Twitter" width="22px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
 </a>
 
 <a href="https://www.instagram.com/rajat_dodwadkar/">
-  <img align="left" alt="Rajat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Rajat's Instagram" width="22px" src="https://play-lh.googleusercontent.com/h9jWMwqb-h9hjP4THqrJ50eIwPekjv7QPmTpA85gFQ10PjV02CoGAcYLLptqd19Sa1iJ" />
 </a>
 
 
@@ -47,5 +47,6 @@ Hi, I'm Rajat, a student from India, currently studying Electronics and Communic
 <img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Jupyter notebooks" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" />
+<img align="left" alt="Anaconda navigator" width="26px" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fraden.fke.utm.my%2Fblog%2Fanacondanavigatorlaunchericon&psig=AOvVaw3K8cHb1aP-syGyLGKq4kPG&ust=1616334588523000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDO39qBv-8CFQAAAAAdAAAAABAD" />
 </a>
 <br />
