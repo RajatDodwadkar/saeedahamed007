@@ -12,11 +12,11 @@ Hi, I'm Rajat, a student from India, currently studying Electronics and Communic
 
 ## I'm a Student and coder!! 
 
-- 🌱 I’m currently learning about Datascience
+- 🌱 I’m currently learning about Datascience, Machine learning and Artificial Nueral Networks.
 - 💬 Although I'm still a newbie, I am always happy to help with anything I know, ask me anything
 - 👯 I’m looking to collaborate with other here for projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact:  I enjoy Gaming, Travelling, and obviously Programming!
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact:  I enjoy Music, Gaming, Travelling, and obviously Programming!
 
 ### Spotify Playing 🎧
 
@@ -46,5 +46,6 @@ Hi, I'm Rajat, a student from India, currently studying Electronics and Communic
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Jupyter notebooks" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" />
 </a>
 <br />
